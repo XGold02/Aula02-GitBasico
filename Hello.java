@@ -7,3 +7,10 @@ public class Hello {
         System.out.println("Hello World!");
     }
 }
+
+class Alemon{
+    public static void escreverHalloWelt(){
+        System.out.println("Hallo Welt!");
+    }
+
+}
